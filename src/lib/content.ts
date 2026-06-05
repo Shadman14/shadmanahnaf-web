@@ -1,9 +1,9 @@
-// ─────────────────────────────────────────────────────────────────
+// ============================================================================
 // All homepage / global copy lives here.
-// English only for now, but centralized so a বাংলা (Bangla) translation can be
+// English only for now, but centralized so a Bangla translation can be
 // added later by converting each string to { en, bn } without touching components.
 // NOTE: This is a website-selling business. Automation is NOT marketed here.
-// ─────────────────────────────────────────────────────────────────
+// ============================================================================
 
 export const hero = {
   pill: "Websites for firms & businesses — Bangladesh",
@@ -60,7 +60,7 @@ export const whyMe = {
     },
     {
       title: "You own everything",
-      body: "The site, the domain, the content —  100% yours. No lock-in, no hostage situations.",
+      body: "The site, the domain, the content — 100% yours. No lock-in, no hostage situations.",
     },
   ],
 };

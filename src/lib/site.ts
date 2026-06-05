@@ -1,8 +1,8 @@
-// ─────────────────────────────────────────────────────────────────
+// ============================================================================
 // SINGLE SOURCE OF TRUTH for your contact details and brand.
 // Change anything here and it updates across the whole site + SEO/JSON-LD.
-// ⚠️ Confirm the email below — it's taken from your live site.
-// ─────────────────────────────────────────────────────────────────
+// IMPORTANT: Confirm the email below - it's taken from your live site.
+// ============================================================================
 
 export const site = {
   name: "Shadman Ahnaf",
@@ -13,14 +13,14 @@ export const site = {
   // Domain (used for canonical URLs, sitemap, Open Graph)
   url: "https://shadmanahnaf.xyz",
 
-  // Contact — confirm these before launch
+  // Contact - confirm these before launch
   email: "shadman80865@gmail.com",
   phoneDisplay: "+880 1934-542908",
   phoneE164: "+8801934542908",
   whatsapp: "8801934542908", // digits only, for wa.me links
   whatsappPrefill: "Hi Shadman, I'd like a website for my business.",
 
-  // Location (NAP — keep consistent everywhere)
+  // Location (NAP - keep consistent everywhere)
   location: {
     city: "Dhaka",
     region: "Dhaka",
