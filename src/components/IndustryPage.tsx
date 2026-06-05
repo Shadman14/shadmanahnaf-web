@@ -103,7 +103,7 @@ export function IndustryPage({ industry }: { industry: Industry }) {
           <SectionHeader
             pill="What's included"
             title={`What's included for ${industry.name}`}
-            sub="A site shaped around how your clients actually decide — built to be found and built to convert."
+            sub="A site shaped around how your clients actually decide, built to be found and built to convert."
           />
           <Reveal className="grid gap-3 sm:grid-cols-2">
             {industry.included.map((f) => (
